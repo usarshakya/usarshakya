@@ -2,7 +2,6 @@
 
 ### 👧🏻 &nbsp;About me
 - I'm a Ruby on Rails (ROR) Backend Developer and a Team Lead with experience in travel, academic sports, social network and ecommerce domains.
-- Excellent leadership record of leading development teams in enterprise-wide development projects.
 
 ### 👨‍💻 &nbsp;Languages and Tools
 <p>
